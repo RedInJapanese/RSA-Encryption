@@ -1,5 +1,5 @@
 # RSA Encryption
-These programs implement the RSA encryption algorithm using Carmichael's totient function instead of Euler's totient function
+These programs implement the RSA encryption algorithm using Carmichael's lambda function instead of Euler's totient function
 
 # Building
 
